@@ -1,0 +1,36 @@
+
+## **Senior Full-Stack Software Engineer (Python/AWS)**
+
+### **Job Summary**
+
+We are seeking an experienced **Senior Full-Stack Software Engineer** to join our core development team. The ideal candidate will have 5+ years of hands-on experience in the **Software Development Lifecycle (SDLC)**, specializing in the design and implementation of highly scalable, resilient applications. You will take ownership of both the back-end architecture and front-end implementation, focusing heavily on **Python**, the **Django** framework, and modern cloud deployment practices using **AWS**.
+
+### **What You'll Do (Responsibilities)**
+
+* Design, build, and maintain high-volume, performance-driven **RESTful APIs** using **Python** and the **Django** REST Framework.
+* Lead the development of the back-end application logic, ensuring adherence to best practices in system architecture and security.
+* Develop robust, user-friendly front-end components using **JavaScript** and modern frameworks like **React**.
+* Manage and optimize application infrastructure in the cloud using **AWS** services (**EC2**, **S3**, **RDS**, and EKS).
+* Own and enhance the **CI/CD pipeline** and deployment process, collaborating closely with the DevOps team.
+* Ensure code quality through rigorous **Test-Driven Development (TDD)**, unit testing, and integration testing.
+* Collaborate within a highly iterative **Agile/Scrum** environment, participating in planning, code reviews, and architectural discussions.
+* Mentor mid-level and junior engineers on technical standards, code quality, and best practices.
+
+### **What You'll Bring (Required Qualifications)**
+
+* Bachelor's Degree in Computer Science, Software Engineering, or equivalent experience.
+* **5+ years** of professional experience in **full-stack** software development.
+* Expert proficiency in **Python** and solid experience with the **Django** web framework.
+* Demonstrable experience designing and consuming **RESTful APIs**.
+* Strong experience with relational databases, including **PostgreSQL** or MySQL, and advanced **SQL** querying.
+* Experience with front-end technologies: **JavaScript** (ES6+), HTML5, CSS3, and a modern framework (React, Angular, or Vue).
+* Familiarity with containerization technologies (**Docker**).
+* Proficiency in version control systems, primarily **Git**.
+
+### **Bonus Points (Preferred Qualifications)**
+
+* Hands-on experience with **AWS** services for deployment, scaling, and monitoring.
+* Direct experience with container orchestration platforms (**Kubernetes**).
+* Certification in **AWS** or an **Agile** methodology (Scrum Master, etc.).
+* Experience in **microservices** architecture design and implementation.
+* Experience using monitoring and logging tools (Prometheus, Grafana, ELK stack).

@@ -1,0 +1,83 @@
+
+### **ELARA VANCE**
+
+(901) 555-1234 | elara.vance@example.com | [linkedin.com/in/elaravancepro](https://www.google.com/search?q=https://linkedin.com/in/elaravancepro) | Seattle, WA
+
+-----
+
+## **Professional Summary**
+
+Dynamic and dedicated **Senior Software Engineer** with **7+ years** of hands-on experience in full-stack development, specializing in **Python**, **AWS cloud architecture**, and **CI/CD pipelines**. Expertise in designing, deploying, and scaling high-volume web applications. Successfully led cross-functional teams to deliver projects **20% faster** than projected deadlines. Seeking to apply advanced technical skills and leadership experience at a cutting-edge technology firm.
+
+-----
+
+## **Core Competencies (Keywords)**
+
+  * **Python/Django**
+  * **AWS (EC2, S3, Lambda)**
+  * **RESTful APIs**
+  * **CI/CD**
+  * **Microservices**
+  * **SQL/PostgreSQL**
+  * **Agile/Scrum**
+  * **Docker/Kubernetes**
+  * **Test-Driven Development (TDD)**
+  * **System Design**
+
+-----
+
+## **Professional Experience**
+
+### **Senior Software Engineer**
+
+**Apex Digital Solutions** | *Seattle, WA*
+*October 2018 – Present*
+
+  * Led a team of five engineers in the migration of monolithic architecture to **microservices** using **Docker** and **Kubernetes**, reducing deployment downtime by **60%**.
+  * Developed high-performance **RESTful APIs** using **Python** and **Django** to support a customer-facing platform with over 1 million daily users.
+  * Managed and optimized **AWS cloud resources** (EC2, S3, Lambda), cutting quarterly infrastructure costs by **$35,000**.
+  * Implemented **CI/CD pipelines** using Jenkins, increasing the frequency of stable code deployments from monthly to bi-weekly.
+
+### **Software Engineer**
+
+**Innovatech Group** | *Portland, OR*
+*June 2016 – September 2018*
+
+  * Contributed to the full-stack development of an internal analytics tool using JavaScript (React) and Node.js.
+  * Wrote and maintained unit and integration tests, increasing code coverage to **90%** and reducing production bugs by **25%**.
+  * Collaborated closely with product managers and QA teams using the **Agile/Scrum** methodology to define project scope and deliverables.
+
+-----
+
+## **Education**
+
+**Master of Science in Computer Science**
+*Massachusetts Institute of Technology (MIT)* | *Cambridge, MA*
+*Graduation Date: May 2016*
+*Thesis: Advanced Machine Learning Applications in Cloud Infrastructure*
+
+**Bachelor of Science in Electrical Engineering**
+*University of Washington* | *Seattle, WA*
+*Graduation Date: June 2014*
+
+-----
+
+## **Technical Skills & Tools**
+
+| Category | Tools/Software/Languages |
+| :--- | :--- |
+| **Programming** | Python, JavaScript, Go, HTML5, CSS3 |
+| **Databases** | PostgreSQL, MySQL, NoSQL (MongoDB, Redis) |
+| **Cloud/DevOps** | AWS, Azure, Docker, Kubernetes, Jenkins, Terraform |
+| **Frameworks** | Django, React, Node.js, Flask |
+| **Methodologies** | Agile, Scrum, TDD, Version Control (Git) |
+
+-----
+
+### **How to Make this a Simple PDF:**
+
+1.  Copy the entire content above.
+2.  Paste it into a simple text editor (like Microsoft Word, Google Docs, or Pages).
+3.  Ensure you use a standard font like **Arial** or **Calibri** in size 11 or 12.
+4.  Use only basic formatting (bolding, standard bullet points).
+5.  Go to **File \> Save As** or **Download** and select **PDF** format.

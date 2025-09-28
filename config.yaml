@@ -1,0 +1,28 @@
+llm:
+  # Using free-tier APIs
+  providers:
+    - name: "openrouter"
+      # Changed to reference the Environment Variable name
+      api_key_env_var: "OPENROUTER_API_KEY"  
+      models:
+        - "mistralai/mistral-7b-instruct:free"
+        - "google/gemma-7b-it:free"
+        - "meta-llama/llama-3-8b-instruct:free"
+    - name: "huggingface"
+      # Changed to reference the Environment Variable name (e.g., HF_TOKEN)
+      api_key_env_var: "HF_TOKEN" 
+      models:
+        - "mistralai/Mistral-7B-Instruct-v0.1"
+        - "microsoft/DialoGPT-medium"
+
+parsing:
+  max_file_size_mb: 10
+  supported_formats: ['.pdf', '.docx', '.txt']
+
+scoring:
+  weights:
+    skills_match: 0.3
+    experience_match: 0.25
+    education_match: 0.2
+    keywords_match: 0.15
+    overall_fit: 0.1

@@ -1,0 +1,81 @@
+
+### **SAMUEL CHEN**
+
+(609) 555-3333 | samuel.chen@example.com | [linkedin.com/in/samuelchenpm](https://www.google.com/search?q=https://linkedin.com/in/samuelchenpm) | New York, NY
+
+-----
+
+## **Professional Summary**
+
+Certified **PMP** and **Scrum Master** with **10 years** of progressive experience leading complex technology initiatives and **Agile** development teams. Expertise in full product lifecycle management, from requirements gathering to large-scale deployment. Proven track record of managing cross-functional teams (including **Software Engineers** and Data Scientists) to deliver projects **on time and under budget** by 15%. Highly skilled in process optimization and utilizing JIRA/Confluence.
+
+-----
+
+## **Core Competencies (Keywords)**
+
+  * **Project Management (PMP)**
+  * **Agile/Scrum Master**
+  * **CI/CD Pipeline** Coordination
+  * **Software Development Lifecycle (SDLC)**
+  * **Requirements Gathering**
+  * **Stakeholder Management**
+  * **Technical Communication**
+  * **Budget Management**
+  * **JIRA/Confluence**
+  * **Risk Mitigation**
+
+-----
+
+## **Professional Experience**
+
+### **Senior Technical Project Manager**
+
+**Nexus Global Tech** | *New York, NY*
+*March 2017 – Present*
+
+  * Managed the end-to-end development and deployment of a core customer-facing application across three engineering teams (**15 Software Engineers** total), utilizing **Agile Scrum** practices.
+  * Successfully coordinated the release of a new feature set that required integrating with **AWS cloud architecture**, ensuring zero downtime and strict adherence to release schedules.
+  * Led weekly planning and sprint review meetings, improving team velocity by **25%** through identifying and eliminating key process bottlenecks in the **CI/CD pipeline**.
+  * Served as the primary liaison between technical teams and executive **stakeholders**, translating complex engineering needs (e.g., **microservices** transition) into clear business objectives.
+  * Oversaw a $2.5 million annual project budget, consistently delivering projects within financial constraints.
+
+### **Project Coordinator**
+
+**Innovision Services** | *Philadelphia, PA*
+*July 2014 – February 2017*
+
+  * Managed smaller-scale software projects, tracking progress in **JIRA** and creating detailed documentation in **Confluence**.
+  * Assisted the Senior PM in the implementation of new **Software Development Lifecycle (SDLC)** governance models.
+  * Facilitated effective communication between developers and QA teams to speed up the testing and validation process.
+
+-----
+
+## **Education**
+
+**Master of Business Administration (MBA)**
+*Columbia Business School* | *New York, NY*
+*Graduation Date: May 2014*
+
+**Bachelor of Science in Information Technology**
+*Rutgers University* | *New Brunswick, NJ*
+*Graduation Date: June 2012*
+
+-----
+
+## **Certifications & Tools**
+
+  * **PMP** (Project Management Professional)
+  * **Certified ScrumMaster (CSM)**
+  * Tools: **JIRA**, **Confluence**, Microsoft Project, Slack, **Git** (Basic knowledge)
+
+-----
+
+### **How this resume would score mid-to-high for the Software Engineer JD:**
+
+This resume explicitly uses several crucial keywords from the Software Engineer Job Description (JD), although the job title is different:
+
+  * **Process Keywords:** **Agile**, **Scrum**, **CI/CD**, **SDLC**, **JIRA**, and **microservices** are all present. These are powerful signals to the ATS that the candidate understands the *environment* and *methodology* the engineers work in.
+  * **Contextual Relevance:** The bullets describe coordinating and managing **Software Engineers** and technical delivery. While the candidate didn't *write* the code, the ATS sees they have direct experience with the technical *outcomes* and *processes* required for the role.
+  * **Missing Technical Hard Skills:** The score is docked because the resume is light on specific engineering requirements like **Python**, **Django**, and hands-on **Docker/Kubernetes** implementation. The ATS will flag these as missing essential "hard skills."
+
+This highlights a key ATS principle: **Process and methodology matches can often overcome a job title mismatch, especially for senior or leadership roles.**

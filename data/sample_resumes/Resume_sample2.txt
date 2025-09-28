@@ -1,0 +1,85 @@
+
+### **MAYA BHATNAGAR**
+
+(415) 555-9876 | maya.bhatnagar@example.com | [linkedin.com/in/mayabdata](https://www.google.com/search?q=https://linkedin.com/in/mayabdata) | San Francisco, CA
+
+-----
+
+## **Professional Summary**
+
+Analytical and detail-oriented **Data Scientist** with **8 years** of experience in building and deploying **machine learning models** and leveraging large-scale datasets. Proficient in **Python** for complex data manipulation and statistical analysis. Deep experience utilizing **AWS** services for data pipeline construction and processing. Seeking to transition expertise in **data analysis** and scripting toward a challenging **Software Engineer** role focused on system optimization and integration.
+
+-----
+
+## **Core Competencies (Keywords)**
+
+  * **Python/Pandas**
+  * **Machine Learning (ML)**
+  * **SQL/Data Mining**
+  * **AWS (S3, Redshift, SageMaker)**
+  * **Statistical Modeling**
+  * **Data Visualization**
+  * **ETL Processes**
+  * **A/B Testing**
+  * **Data Analysis**
+  * **Agile Methodology**
+
+-----
+
+## **Professional Experience**
+
+### **Lead Data Scientist**
+
+**Quantico Insights** | *San Francisco, CA*
+*January 2019 – Present*
+
+  * Designed and implemented end-to-end **machine learning models** in **Python** (Scikit-learn, TensorFlow) to predict customer churn, resulting in a **12% improvement** in targeted retention strategies.
+  * Managed large-scale data ingestion and transformation (**ETL**) pipelines, utilizing **AWS S3** and **Redshift** for storage and querying complex datasets with **SQL**.
+  * Collaborated with engineering teams to deploy models into production environments using internal scripting tools, adhering to **Agile Methodology**.
+  * Developed and presented data-driven insights and **statistical models** to executive leadership, influencing product roadmaps.
+
+### **Data Analyst**
+
+**Global Tech Analytics** | *San Francisco, CA*
+*August 2016 – December 2018*
+
+  * Performed deep **data analysis** on user behavior, identifying key trends that informed feature development.
+  * Conducted numerous **A/B tests** for product iterations, reporting findings using Tableau and custom **Python** scripts.
+  * Maintained data quality and integrity across several databases using advanced **SQL** queries.
+
+-----
+
+## **Education**
+
+**Master of Science in Data Science**
+*UC Berkeley* | *Berkeley, CA*
+*Graduation Date: May 2016*
+
+**Bachelor of Arts in Applied Mathematics**
+*Stanford University* | *Palo Alto, CA*
+*Graduation Date: June 2014*
+
+-----
+
+## **Technical Skills & Tools**
+
+| Category | Tools/Software/Languages |
+| :--- | :--- |
+| **Programming** | **Python** (Expert), R, Scala, Basic **JavaScript** |
+| **Databases** | **SQL** (PostgreSQL, Redshift), NoSQL (MongoDB) |
+| **Cloud/ML** | **AWS (S3, SageMaker, EC2)**, TensorFlow, PyTorch |
+| **DevOps** | Git, Jenkins (Familiarity only), JIRA |
+| **Reporting** | Tableau, Power BI, Advanced Excel |
+
+-----
+
+### **Why this resume would score lower for the Software Engineer JD:**
+
+1.  **Job Title Mismatch:** The job is for an "Engineer," but the candidate is a "Data Scientist." The ATS prioritizes exact or very close title matches.
+2.  **Missing Core Skills:** The resume lacks critical keywords explicitly mentioned in the JD's requirements:
+      * No mention of **Django** or **Flask** (replaced with Pandas/TensorFlow).
+      * Missing **Docker** and **Kubernetes** expertise (replaced with Data/ML tools).
+      * Lacks the term "**RESTful APIs**" development in the experience bullets.
+      * Lack of direct mention of "**CI/CD pipelines**" implementation ownership.
+3.  **Contextual Mismatch:** While keywords like "Python," "AWS," and "SQL" are present, they are always used in the context of *Data Analysis* or *ML Model Deployment*, not *Application Design* or *System Architecture*. The bullet points show data achievements, not software engineering achievements (e.g., *designed machine learning models* vs. *designed microservices architecture*).
+4.  **Skills Depth Mismatch:** The core focus of the candidate's experience is statistical and analytical rather than system development and scaling, which the job description heavily required.

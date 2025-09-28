@@ -1,0 +1,62 @@
+### **LIAM ZHANG**
+
+(212) 555-4444 | liam.zhang@example.com | [linkedin.com/in/liamzdevops](https://www.google.com/search?q=https://linkedin.com/in/liamzdevops) | Austin, TX
+
+-----
+
+## **Professional Summary**
+
+Expert **DevOps Engineer** with **6+ years** of hands-on experience specializing in automation, infrastructure-as-code (**IaC**), and building highly available, scalable cloud platforms. Deep mastery of **CI/CD pipelines**, container orchestration using **Kubernetes**, and optimizing **AWS** environments. Seeking to leverage strong scripting and system design skills in a challenging Senior Engineering role.
+
+-----
+
+## **Core Competencies (Keywords)**
+
+  * **CI/CD (Jenkins, GitLab)**
+  * **AWS (EC2, S3, RDS, EKS)**
+  * **Docker/Kubernetes**
+  * **Terraform/IaC**
+  * **Python/Bash Scripting**
+  * **Microservices Deployment**
+  * **System Monitoring (Prometheus)**
+  * **Agile/Scrum**
+  * **Linux Administration**
+  * **Configuration Management**
+
+-----
+
+## **Professional Experience**
+
+### **Lead DevOps Engineer**
+
+**Cloud Dynamics** | *Austin, TX*
+*August 2019 – Present*
+
+  * Designed, built, and maintained fully automated **CI/CD pipelines** using Jenkins and Groovy, reducing deployment time from 4 hours to 15 minutes.
+  * Orchestrated **microservices** deployments across multiple environments using **Kubernetes** and Helm charts, ensuring 99.99% uptime.
+  * Managed **AWS** infrastructure as code (**IaC**) using **Terraform**, covering **EC2**, VPC, and security group configurations.
+  * Collaborated with **Software Engineers** to optimize **Python** application performance and container images, resulting in a **30% reduction** in resource consumption.
+  * Implemented centralized logging and monitoring solutions (ELK stack, Prometheus), improving incident response time by **50%**.
+
+### **Cloud Operations Specialist**
+
+**TechStream** | *Dallas, TX*
+*June 2017 – July 2019*
+
+  * Administered and maintained Linux-based application servers in a large-scale **AWS** environment.
+  * Developed automation scripts in **Python** and Bash to manage routine system tasks and deployments.
+  * Participated in **Agile/Scrum** planning meetings to align infrastructure readiness with development sprints.
+
+-----
+
+## **Education**
+
+**Master of Science in Information Systems**
+*University of Texas at Austin* | *Austin, TX*
+*Graduation Date: May 2017*
+
+**Bachelor of Science in Computer Engineering**
+*Texas A\&M University* | *College Station, TX*
+*Graduation Date: June 2015*
+
+-----

@@ -1,0 +1,75 @@
+
+### **EMILY CARTER**
+
+(703) 555-7777 | emily.carter@example.com | [linkedin.com/in/emilycwrite](https://www.google.com/search?q=https://linkedin.com/in/emilycwrite) | Reston, VA
+
+-----
+
+## **Professional Summary**
+
+Highly experienced **Lead Technical Writer** with **9 years** in the technology sector, specializing in transforming complex engineering specifications into clear, compliant, and accessible documentation. Expertise in managing documentation lifecycles, ensuring alignment with **Software Development Lifecycles (SDLC)**, and improving user clarity. Seeking a role that utilizes strong organizational, editing, and technical **communication skills**.
+
+-----
+
+## **Core Competencies (Keywords)**
+
+  * **Technical Writing**
+  * **Documentation Management**
+  * **Software Development Lifecycle (SDLC)**
+  * **User Manuals/Guides**
+  * **Confluence/SharePoint**
+  * **JIRA Ticketing**
+  * **API Documentation** (Consumption Focus)
+  * **Compliance & Policy**
+  * **Information Architecture**
+  * **Editorial Review**
+
+-----
+
+## **Professional Experience**
+
+### **Lead Technical Editor**
+
+**Innovision Systems, Inc.** | *Reston, VA*
+*October 2018 – Present*
+
+  * Directed a team of four writers responsible for all internal and external-facing software documentation, covering over 50 product features annually.
+  * Managed the documentation process within the **SDLC**, ensuring all content was reviewed and released concurrently with the **Software Engineer** deployments.
+  * Created and maintained documentation for internal **API** libraries, focusing on clear integration instructions and use-case examples for non-technical partners.
+  * Administered the internal knowledge base on **Confluence**, improving documentation discoverability and reducing customer support calls by **18%**.
+  * Managed content workflow using **JIRA** to track documentation tickets from creation to final publication.
+
+### **Technical Writer**
+
+**Federal Tech Solutions** | *Washington, D.C.*
+*July 2016 – September 2018*
+
+  * Authored and edited policy and user manuals for enterprise applications used by over 5,000 internal staff.
+  * Collaborated with developers to gather technical specifications for release notes and deployment guides.
+  * Maintained content version control and archival using SharePoint.
+
+-----
+
+## **Education**
+
+**Master of Arts in Technical Communications**
+*George Mason University* | *Fairfax, VA*
+*Graduation Date: May 2016*
+
+**Bachelor of Arts in English**
+*University of Maryland* | *College Park, MD*
+*Graduation Date: June 2014*
+
+-----
+
+## **Technical Skills & Tools**
+
+| Category | Tools/Software/Languages |
+| :--- | :--- |
+| **Documentation** | MadCap Flare, Adobe RoboHelp, SharePoint |
+| **Workflow/CMS** | **JIRA**, **Confluence**, Git (Basic Familiarity) |
+| **Databases** | **Basic SQL** (for querying documentation metrics) |
+| **Scripting** | HTML, CSS, XML (No programming languages) |
+
+-----
+

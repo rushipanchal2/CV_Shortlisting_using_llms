@@ -1,0 +1,74 @@
+
+### **JESSICA WONG**
+
+(312) 555-8888 | jessica.wong@example.com | [linkedin.com/in/jessicawongfullstack](https://www.google.com/search?q=https://linkedin.com/in/jessicawongfullstack) | Chicago, IL
+
+-----
+
+## **Professional Summary**
+
+Dedicated **Full-Stack Software Developer** with **7 years** of experience in the **Software Development Lifecycle (SDLC)**, delivering robust web applications. Expertise in the back-end using **Python/Django** and proven proficiency in modern JavaScript frameworks (React). Strong background in building scalable **RESTful APIs** and integrating solutions using **AWS** cloud services. Seeking to apply comprehensive technical skills in a Senior Engineering role.
+
+-----
+
+## **Core Competencies (Keywords)**
+
+  * **Python/Django**
+  * **RESTful API Development**
+  * **Full-Stack Development**
+  * **AWS (S3, EC2)**
+  * **JavaScript (React, Node.js)**
+  * **SQL/PostgreSQL**
+  * **Agile/Scrum**
+  * **Git/Version Control**
+  * **Test-Driven Development (TDD)**
+  * **System Integration**
+
+-----
+
+## **Professional Experience**
+
+### **Senior Full-Stack Developer**
+
+**Helix Innovations** | *Chicago, IL*
+*July 2018 – Present*
+
+  * Developed and maintained core back-end services using **Python** and the **Django** framework, handling over 1 million daily user transactions.
+  * Led the design and implementation of 15+ high-volume **RESTful APIs** to serve data to both internal and external client applications.
+  * Utilized **AWS EC2** and **S3** for application hosting and static asset storage, ensuring high availability and low latency.
+  * Applied **Test-Driven Development (TDD)** practices, increasing API unit test coverage to 95% and reducing production bugs by **18%**.
+  * Collaborated closely with DevOps teams on deployment automation and integration of features into the **CI/CD** flow.
+
+### **Software Developer**
+
+**Digital Canvas Studio** | *Chicago, IL*
+*August 2016 – June 2018*
+
+  * Contributed to the development of user-facing interfaces using React and modern **JavaScript**.
+  * Performed database optimization using **PostgreSQL** and complex **SQL** queries to improve reporting speed by **40%**.
+  * Participated actively in daily stand-ups and sprint planning as part of an **Agile/Scrum** team structure.
+
+-----
+
+## **Education**
+
+**Master of Science in Software Engineering**
+*University of Illinois at Urbana-Champaign (UIUC)* | *Champaign, IL*
+*Graduation Date: May 2016*
+
+**Bachelor of Science in Computer Science**
+*Northwestern University* | *Evanston, IL*
+*Graduation Date: June 2014*
+
+-----
+
+## **Technical Skills & Tools**
+
+| Category | Tools/Software/Languages |
+| :--- | :--- |
+| **Back-End** | **Python**, **Django**, Flask, Node.js |
+| **Front-End** | **JavaScript (React)**, HTML5, CSS3, Redux |
+| **Cloud/Infra** | **AWS (EC2, S3, RDS)**, Docker (Working Knowledge) |
+| **Database** | **SQL (PostgreSQL)**, MySQL, Redis |
+| **Methodologies** | **Agile/Scrum**, **TDD**, **SDLC**, Git |
+

@@ -1,0 +1,47 @@
+
+---
+
+## **Job Title:** Senior Software Engineer (Python/AWS Focus)
+**Department:** Engineering | **Reports To:** Director of Engineering
+**Location:** Hybrid (3 days in office, Seattle, WA)
+**Employment Type:** Full-Time
+
+---
+
+## **Role Summary**
+
+We are seeking an exceptionally talented and dedicated **Senior Software Engineer** with **7+ years** of professional experience in designing, developing, and deploying scalable software solutions. The ideal candidate will be a **full-stack developer** specializing in **Python** (specifically **Django/Flask**) and possess deep expertise in **AWS cloud services**. This role is critical in leading our platform migration to a **microservices architecture** and mentoring junior team members within an **Agile/Scrum** environment.
+
+---
+
+## **Key Responsibilities & Essential Duties**
+
+The Senior Software Engineer will be responsible for the following essential functions:
+
+1.  **Architecture & Development (40%):** Design, develop, and maintain robust, high-performance **RESTful APIs** and services using **Python** and **Django**. Drive the implementation of scalable, fault-tolerant **microservices** architecture using **Docker** and **Kubernetes**.
+2.  **Cloud & DevOps (30%):** Manage, optimize, and secure **AWS** infrastructure, including **EC2**, **S3**, and **AWS Lambda**. Establish and enhance **CI/CD pipelines** using Jenkins and Terraform to ensure automated, efficient, and frequent code deployments.
+3.  **Code Quality & Testing (20%):** Implement best practices for **Test-Driven Development (TDD)**, code reviews, and quality assurance. Write clean, well-documented, and efficient code with a strong emphasis on security and performance tuning.
+4.  **Mentorship & Collaboration (10%):** Act as a technical lead, mentoring mid-level and junior **Software Engineers**. Collaborate with Product Management and QA teams to refine requirements and deliver on project milestones within the **Agile/Scrum** framework.
+
+---
+
+## **Required Skills & Qualifications**
+
+* **7+ years** of demonstrated experience in professional **software development**.
+* Expert proficiency in **Python** and popular frameworks such as **Django** or Flask.
+* Proven hands-on experience with **AWS** services (e.g., EC2, S3, Lambda, RDS).
+* Strong understanding of containerization technologies like **Docker** and orchestration tools like **Kubernetes**.
+* Proficiency with relational databases, specifically **PostgreSQL** and writing efficient **SQL** queries.
+* Expertise in developing and integrating **RESTful APIs** and working with system-level design.
+* Familiarity with modern version control systems (Git/GitHub).
+* BS or MS degree in **Computer Science**, Computer Engineering, or a related technical field.
+
+---
+
+## **Preferred Qualifications (Nice to Have)**
+
+* Experience with front-end technologies (e.g., React, JavaScript) is a plus (**Full-Stack** capability).
+* Prior experience leading a migration to a **microservices architecture**.
+* Certification in **AWS** (e.g., **AWS** Certified Developer or Solutions Architect).
+* Experience with advanced **CI/CD** tools (e.g., Terraform, Ansible).
+* Excellent written and verbal **communication skills** and a proven ability to collaborate across teams.
