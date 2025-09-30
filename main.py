@@ -14,6 +14,48 @@ import os
 import yaml
 from dotenv import load_dotenv # Need to install: pip install python-dotenv
 
+
+import subprocess
+import sys
+
+# Define the model name
+model_name = "en_core_web_sm"
+
+try:
+    # Try to load the model directly (this will typically work if it's installed as a package)
+    import spacy
+    nlp = spacy.load(model_name)
+    print(f"✅ spaCy model '{model_name}' is already installed and loaded.")
+
+except OSError as e:
+    # If loading fails, it usually means the model package is not installed.
+    # Check if the error message is related to the model not being found.
+    # (Note: This check might not be perfect for all spaCy versions/errors, 
+    # but the download command is usually the fix.)
+    
+    print(f"❌ spaCy model '{model_name}' not found. Installing now...")
+    
+    # Construct the command to download the model
+    download_command = [sys.executable, "-m", "spacy", "download", model_name]
+    
+    try:
+        # Execute the download command
+        subprocess.check_call(download_command)
+        print(f"✅ Successfully installed spaCy model '{model_name}'.")
+        
+        # Try loading again after installation
+        import spacy
+        nlp = spacy.load(model_name)
+        print(f"✅ Model '{model_name}' loaded after installation.")
+
+    except subprocess.CalledProcessError as sub_e:
+        print(f"❌ Error during model download: {sub_e}")
+        print("Please ensure spaCy is installed: pip install spacy")
+    except ImportError:
+        print("❌ Error: spaCy library is not installed. Please run: pip install spacy")
+    except Exception as general_e:
+        print(f"❌ An unexpected error occurred: {general_e}")
+
 # --- CRITICAL STEP 1: Load environment variables from .env file ---
 # This makes the variables accessible via os.environ
 load_dotenv() 

@@ -48,10 +48,12 @@ OPENROUTER_API_KEY=your_openrouter_api_key_here
 HUGGINGFACE_API_KEY=your_huggingface_api_key_here
 
 6.**Configure the system:Review and modify config.yaml as needed for your specific requirements.**
-7.**streamlit run main.py**
+
+7.**run aplication**
+streamlit run main.py
 
 
-
+8.**File Tree**
 
 cv_sorting_llm/
 ├── main.py                     # Application entry point
